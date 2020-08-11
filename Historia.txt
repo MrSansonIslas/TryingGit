@@ -4,4 +4,6 @@ no tiene nada especial
 
 y eso lo hace muy especial <3
 
-Yo soy Josue, tengo 19 años pero siempre digo que tengo 18
+Yo soy Josue, tengo 19 años pero siempre digo que tengo 18.
+
+La unica verdad, es que intento aprender a usar git.
